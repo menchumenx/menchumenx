@@ -1,8 +1,9 @@
 ### 👋 Hi im Menchu, a creative Front End developer and designer 
 
 - 💼 Im currently working as a development teacher at **Codenotch Coding School** and as full stack developer in **AGARTHA TED GLOBAL**
-- 📚 Currently, I'm studying a master's in **front-end development and UX/UI design** to specialize further in that field. 
-- 📫 How to reach me: menchumenx@gmail.com
+- 📚 Presently, I'm studying a master's in **front-end development and UX/UI design** to specialize further in that field. 
+- 📫 How to reach me: menchumenx@gmail.com | [Linkedin](https://www.linkedin.com/in/menchumenx/)
+
 - 📍 Based on Madrid
 
 <!--
